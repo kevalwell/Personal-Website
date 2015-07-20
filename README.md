@@ -1,2 +1,4 @@
 # Personal-Website
-Creating a personal Website Page
+Creating a personal Website
+
+Coding is Cool.
