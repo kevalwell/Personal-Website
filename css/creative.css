@@ -80,9 +80,13 @@ aside {
     text-shadow: 3px 3px 0px #000;
 }
 
-#small-text{
-    font-size: 28px !important;
-    color: white;
+#small-text {
+  font-size: 30px !important;
+  color: #EE3124;
+  font-weight: bold;
+  border-radius: 25px;
+  background-color: black;
+  opacity: .65;
 }
 
 .no-padding {
